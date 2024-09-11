@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently looking for a job related to software.<br>📚 I love constantly adopting new technologies. <br>⚡ Skilled in both front-end and back-end technologies.<br>👨‍💻 1 year of experience in full-stack development.<br>🤝 I prefer to work in team environments.<br>🌱 Currently learning and studying.<br>💬 Ask me about whatever you want.<br>
+🔭 I’m currently looking for a job related to software.<br>📚 I love constantly adopting new technologies. <br>⚡ Skilled in both front-end and back-end technologies.<br>✔️ 1 year of experience in full-stack development.<br>🤝 I prefer to work in team environments.<br>🌱 Currently learning and studying.<br>💬 Ask me about whatever you want.<br>
 
 
 ## 🌐 Socials:
