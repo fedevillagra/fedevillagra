@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 💻 Skilled in both front-end and back-end technologies, with over a year of experience in software development.  
 🤝 I enjoy working in agile teams where communication, quality, and collaboration are key.  
 📚 Always curious and eager to learn new tools and technologies.  
-💬 Ask me about QA automation, Java testing frameworks, or anything DevOps-related — I’d love to chat!  
-📫 How to reach me: Email me at fedevillagra8@gmail.com 
+💬 Ask me about QA automation, Java testing frameworks, or anything DevOps-related.
+📫 How to reach me: Email me at fedevillagra8@gmail.com.
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I started my journey in tech through web development and ended up loving test automation and infrastructure!
 
