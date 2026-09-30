@@ -88,3 +88,22 @@ ETL / Pipelines
 SQL & Troubleshooting
 Software Engineering fundamentals
 System thinking
+```
+
+---
+
+## 📫 Contact
+
+- 📧 Email: fedevillagra8@gmail.com
+- 💼 LinkedIn: linkedin.com/in/federicovillagra
+- 🌐 Portfolio: federicovillagra.com
+
+---
+
+## ⚡ Fun fact
+
+```text
+I started in Web Development, moved into QA Automation, and somehow ended up in Data Engineering.
+
+Give it a few more years and I’ll be growing tomatoes somewhere with no Wi-Fi.
+```
